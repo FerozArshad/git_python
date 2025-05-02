@@ -1,8 +1,4 @@
-Hello, I am new learner
-Hello World!
-Hello New Line
-Hello New Line
-Hello New Line
-Hello New Line
-Hello New Line
-Hello New Line
+item_name,quantity
+apple,10
+banana,5
+apple,4
